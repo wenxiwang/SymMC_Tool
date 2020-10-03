@@ -1,0 +1,4 @@
+This is the basic version of SymMC for counting both the desired counts (i.e., count under NSB and count under FSB)
+To build SymMC, please go to SymMC directory and run ./build.sh
+To run SymMC for all the subjects, please go to the root directory (where this readme is), and run ./runAll.sh
+To add subjects, please add the cnf file and the symmetry info to the "InputFiles/cnfs" and "InputFiles/SymInfo" folder, respectively; we give an example in the corresponding folder;
